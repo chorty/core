@@ -3219,3 +3219,6 @@ zwave-js-server-python==0.67.1
 
 # homeassistant.components.zwave_me
 zwave-me-ws==0.4.3
+
+# homeassistant.components.mammotion
+pymammotion==0.5.3
