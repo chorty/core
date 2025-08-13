@@ -53,3 +53,4 @@ NO_REQUEST_MODES = (
     WorkMode.MODE_LOCK,
     WorkMode.MODE_MANUAL_MOWING,
 )
+
