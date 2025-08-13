@@ -1,5 +1,7 @@
 """Test the Mammotion config flow."""
 
+from __future__ import annotations
+
 from homeassistant import config_entries
 from homeassistant.components.mammotion.const import DOMAIN
 from homeassistant.core import HomeAssistant
