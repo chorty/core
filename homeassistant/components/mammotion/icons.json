@@ -197,4 +197,12 @@
       }
     }
   }
+  ,"services": {
+    "cancel_job": {
+      "service": "mdi:cancel"
+    },
+    "start_mow": {
+      "service": "mdi:play"
+    }
+  }
 }
